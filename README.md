@@ -26,6 +26,6 @@
 </div>
 <div align="center">
 <p>Profilime kaç kişi tıkladı?</p>
-<img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" /> 
+<img src="https://profile-counter.glitch.me/{shugo-coder}/count.svg" /> 
 <br/> 
 </html>
